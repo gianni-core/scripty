@@ -1,1 +1,5 @@
-3
+STATUS=3
+MESSAGE=Verification bloquee par le systeme
+MODE=SAFE
+DELAY=2
+TITLE=Protection Windows
